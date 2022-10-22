@@ -3,7 +3,7 @@
 ### How to run
 
 ~~~bash
-python/python3 mannage.py # (No requirements.txt required)
+python/python3 main.py # (No requirements.txt required)
 ~~~
 
 ### To do
